@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyProjectScheduleApp</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign up</string>
+    <string name="or_sign_in_with">Or Sign in with</string>
+    <string name="name">Name</string>
+    <string name="email">e-mail</string>
+    <string name="alreadyuser">Already a user? Login instead</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_date">Date</string>
+    <string name="choose_date">Choose a date</string>
+    <string name="str_time">Time</string>
+    <string name="choose_time">Choose a time</string>
+    <string name="str_title_schedule">Schedule</string>
+    <string name="top_app_bar">Scheduler Pro</string>
+    <string name="my_email">ljonson@academic.rrc.ca</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="str_validation_time_slot_empty">Time cannot be empty</string>
+    <string name="str_validation_date_empty">Date cannot be empty</string>
+    <string name="popup_title_success_schedule">Schedule Confirmed</string>
+    <string name="popup_msg_success_schedule">Success!</string>
+    <string name="str_okay">Okay</string>
+    <string name="book_an_appointment">Book an appointment</string>
+    <string name="reports">Reports</string>
+    <string name="my_user_profile">My user profile</string>
+    <string name="logout">Logout</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+</resources>
